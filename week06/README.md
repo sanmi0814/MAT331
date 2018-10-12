@@ -5,3 +5,4 @@
 - Wrap up Hypothesis Testing (P-value approach and Confidence Interval ) -- Use N(0,1)
 - Introduce Maximal Likelihood Estimation -- Idea and derivatives
 - Review for midterm
+- All linear regressions： Theano, gradient descent and etc.
