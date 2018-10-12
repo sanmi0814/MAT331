@@ -6,3 +6,4 @@
 - Introduce Maximal Likelihood Estimation -- Idea and derivatives
 - Review for midterm
 - All linear regressions： Theano, gradient descent and etc.
+  - noisysample.csv; religion.csv, iris_dataset.picle -- are all datasets you need to run all linear regression ipynb
